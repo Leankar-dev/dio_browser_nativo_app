@@ -1,6 +1,6 @@
 # dio_browser_nativo_app
 
-A new Flutter project.
+a simple App that searches for ZIP codes. Using Dio - Browser and Native.
 
 ## Getting Started
 
